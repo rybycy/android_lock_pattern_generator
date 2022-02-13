@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/android_lock_pattern_generator/static/css/main.7ede1b52.css",
+    "main.js": "/android_lock_pattern_generator/static/js/main.647d6ef7.js",
+    "static/js/787.00a70a93.chunk.js": "/android_lock_pattern_generator/static/js/787.00a70a93.chunk.js",
+    "index.html": "/android_lock_pattern_generator/index.html",
+    "main.7ede1b52.css.map": "/android_lock_pattern_generator/static/css/main.7ede1b52.css.map",
+    "main.647d6ef7.js.map": "/android_lock_pattern_generator/static/js/main.647d6ef7.js.map",
+    "787.00a70a93.chunk.js.map": "/android_lock_pattern_generator/static/js/787.00a70a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ede1b52.css",
+    "static/js/main.647d6ef7.js"
+  ]
+}
