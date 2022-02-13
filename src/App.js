@@ -96,7 +96,7 @@ if (window.location.hash) {
   console.log("curr idx", currentIndex);
 } else {
   currentIndex = 0;
-  storeState(currentState);
+  storeState(allPossibleCombinations[currentIndex]);
 }
 currentState = allPossibleCombinations[currentIndex];
 
